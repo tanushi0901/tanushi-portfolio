@@ -1,8 +1,8 @@
 # tanushi-portfolio
 
-# Hi, I'm Tanushi!
+# Hi, I'm Tanushi 👋🏻
 
-Final-year Electrical & Electronic Engineering student at NTU Singapore, specializing in Computing and Intelligent Systems.  
+Final-year Electrical & Electronic Engineering student at NTU Singapore, specialising in Computing and Intelligent Systems.  
 Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experience in data analytics, automation, and cloud technologies.  
 
 ---
@@ -23,7 +23,7 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 
 ## Featured Projects (to be uploaded)
 - **Autonomous Vehicle Cybersecurity (CARLA Simulation)** – Simulated cyber-attacks, applied Kalman filters for anomaly detection, and validated countermeasures.
-- **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualization dashboards for network operations team and also explored automation of network delivery workflows.
+- **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualisation dashboards for the network operations team and also explored automation of network delivery workflows.
 - **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
 - **FYP: Intelligent Photoacoustic Sensor** – Applied AI algorithms to enhance a non-invasive photoacoustic sensor for blood pressure measurement.   
 
