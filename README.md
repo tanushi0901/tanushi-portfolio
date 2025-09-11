@@ -25,7 +25,7 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 - **Autonomous Vehicle Cybersecurity (CARLA Simulation)** – Simulated cyber-attacks, applied Kalman filters for anomaly detection, and validated countermeasures.
 - **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualisation dashboards for the network operations team and also explored automation of network delivery workflows.
 - **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
-- **FYP: Intelligent Photoacoustic Sensor** – Applied AI algorithms to enhance a non-invasive photoacoustic sensor for blood pressure measurement.   
+- **Final Year Project: Intelligent Photoacoustic Sensor** – Applied AI algorithms to enhance a non-invasive photoacoustic sensor for blood pressure measurement.   
 
 *(Repos will be added soon with sanitized code and mock data.)*  
 
