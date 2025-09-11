@@ -27,7 +27,7 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 - **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
 - **FYP: Intelligent Photoacoustic Sensor** – Applied AI algorithms to enhance a non-invasive photoacoustic sensor for blood pressure measurement.   
 
-*(Repos will be added soon with sanitized code, mock data, and project notes.)*  
+*(Repos will be added soon with sanitized code and mock data.)*  
 
 ---
 
