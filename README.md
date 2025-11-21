@@ -3,8 +3,12 @@
 # Hi, I'm Tanushi 👋🏻
 
 Final-year Electrical & Electronic Engineering student at NTU Singapore, specialising in Computing and Intelligent Systems.  
-Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experience in data analytics, automation, and cloud technologies.  
 
+My academic and project work spans machine learning model development, autonomous vehicle cybersecurity, GenAI web apps, image-to-text pipelines, and signal-processing algorithms for intelligent
+sensors. I thrive in roles that require technical problem-solving in a team environment, and I enjoy translating complex technical ideas into solutions that drive business and operational impact.
+
+I bring a strong foundation in engineering, a genuine interest in AI-driven innovation, and the ability to quickly adapt to new tools and domains in corporate technology, healthcare, non-profit, and start-up environments
+in global, cross-cultural contexts.
 ---
 
 ## 🌍 Experience
