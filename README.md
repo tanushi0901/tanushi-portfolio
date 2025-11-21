@@ -27,11 +27,15 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 ---
 
 ## Featured Projects (to be uploaded)
-- **Consumer Electronics Online Store (TechMart Web Application Development Project)** - Designed and developed a full-stack e-commerce website using HTML, CSS, JavaScript, and PHP with responsive layouts, secure form handling, and dynamic product browsing and ordering.
-- **Autonomous Vehicle Cybersecurity (CARLA Simulation)** – Simulated cyber-attacks, applied Kalman filters for anomaly detection, and validated countermeasures.
-- **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualisation dashboards for the network operations team and also explored automation of network delivery workflows.
-- **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
 - **Final Year Project: Intelligent Photoacoustic Sensor** – Applied AI algorithms to enhance a non-invasive photoacoustic sensor for blood pressure measurement.   
+
+- **Consumer Electronics Online Store (TechMart Web Application Development Project)** - Designed and developed a full-stack e-commerce website using HTML, CSS, JavaScript, and PHP with responsive layouts, secure form handling, and dynamic product browsing and ordering.
+  
+- **Autonomous Vehicle Cybersecurity (CARLA Simulation)** – Simulated cyber-attacks, applied Kalman filters for anomaly detection, and validated countermeasures.
+  
+- **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualisation dashboards for the network operations team and also explored automation of network delivery workflows.
+  
+- **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
 
 *(Repos will be added soon with sanitized code and mock data.)*  
 
