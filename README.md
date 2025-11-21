@@ -9,6 +9,11 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 
 ## 🌍 Experience
 
+### Tech Incubator at Queens College – Innovation & Data Engineering Intern (Dec 2025–Jan 2026, New York, USA)
+- Selected through the U.S. Department of State’s FUSIA BridgeUSA Internship Program to support early-stage tech startups.
+- Contributed to AI- and data-driven innovation projects and incubator operations with founders and the Queens College CUNY Research Foundation.
+- Conducted market research and supported events and outreach to strengthen the NYC tech entrepreneurship ecosystem.
+  
 ### Johnson & Johnson – Network Engineering, Visibility & Automation Intern (Jan–Jul 2025, Singapore)
 - Built Power BI dashboards integrating telemetry from networks, cloud, and endpoints.  
 - Streamlined workflows with Python & shell scripting, enhancing efficiency.  
