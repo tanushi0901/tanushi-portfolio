@@ -6,7 +6,7 @@ Final-year Electrical & Electronic Engineering student at NTU Singapore, special
 
 My academic and project work spans **machine learning model development**, **autonomous vehicle cybersecurity**, **GenAI web applications**, **image-to-text pipelines**, and **signal-processing algorithms for intelligent sensors**. I thrive in roles involving technical problem-solving in a team environment, and I enjoy translating complex engineering ideas into solutions that create business and operational impact. 
 
-I bring a strong foundation in engineering, a genuine interest in **AI-driven innovation**, and the ability to quickly adapt to new tools and domains across **corporate technology, healthcare, non-profit, and start-up environments in global, cross-cultural contexts**.
+I bring a strong foundation in engineering, a genuine interest in **AI-driven innovation**, and the ability to quickly adapt to new tools and domains across **corporate technology, healthcare, non-profit, and start-up environments in global, cross-cultural contexts!**.
 
 ---
 
