@@ -22,7 +22,7 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 ---
 
 ## Featured Projects (to be uploaded)
-- **Consumer Electronics Online Store (NTU Web Application Development Project)** - Designed and developed a full-stack e-commerce website using HTML, CSS, JavaScript, and PHP with responsive layouts, secure form handling, and dynamic product browsing and ordering.
+- **Consumer Electronics Online Store (TechMart Web Application Development Project)** - Designed and developed a full-stack e-commerce website using HTML, CSS, JavaScript, and PHP with responsive layouts, secure form handling, and dynamic product browsing and ordering.
 - **Autonomous Vehicle Cybersecurity (CARLA Simulation)** – Simulated cyber-attacks, applied Kalman filters for anomaly detection, and validated countermeasures.
 - **Network Dashboard & Automation (Johnson & Johnson)** – Developed data visualisation dashboards for the network operations team and also explored automation of network delivery workflows.
 - **Machine Learning and Data Analtytics (MLDA) Hackathon** – Built a GenAI + SQL app to generate optimized university timetables.  
