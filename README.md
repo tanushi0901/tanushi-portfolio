@@ -34,7 +34,10 @@ Skilled in Python, SQL, Power BI, Tableau, and GenAI tools, with hands-on experi
 ## Certifications
 - AWS Machine Learning Engineer Associate (Udemy)  
 - AWS Cloud Practitioner CLF-C02 (Udemy)  
-- Microsoft Power BI Desktop for Business Intelligence (Udemy)  
+- Microsoft Power BI Desktop for Business Intelligence (Udemy)
+- High Stakes Leadership: Leading in Times of Crisis by University of Michigan (Coursera)
+- Essentials of Global Health by Yale University (Coursera)
+- Moral Foundations of Politics by Yale University (Coursera)
 
 ---
 
